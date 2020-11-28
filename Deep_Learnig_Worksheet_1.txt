@@ -1,0 +1,51 @@
+Question Number, Correct Option, Answer
+
+1> b, Neural Network
+
+2> d, None of the above
+
+3> c, i-v-iv-iii-ii
+
+4> a, Recurrent Neural Network
+
+5> a, input pattern keeps on changing
+
+6> c, dynamic inputs & categorization can't be handled
+
+7> c, Both statements are true
+
+8> a, Recurrent Neural network
+
+multipal answer:
+
+9> a,b,d Learning Rate is low, Regularisation parameter is high, Stuck at local minima
+
+10> a, b,c Stochastic Gradient Descent, Rectified Linear Unit, Convolution Function 
+
+Subjective Answer:
+
+11>Answer: Deep learning is part of a broader family of machine learning mothodes basesd
+           on artificial neural networks with representation learing. Learning can be 
+           be supervised, semi-supervised or unsupervised.
+           Deep learning is a calss of machine learnig algorithms that is used multipale
+           layers progressively extract high level features from the row data. For example 
+           image detaction, natural laguage modification, face detaction, etc.
+
+12>Answer: Reinforcement learning is an area of machine learning concerned with how software
+           agents ought to take actions in an environment in order to maximize the notion of
+           cumulative reward. Reinforcement learning is one of three basic machine learning 
+           paradigms, alongside supervised learning and unsupervised learning.
+
+13>Answer: The main differences between two of them is in Machine leanrning uses algorithms to 
+           parse data, learn from that data, and make informed decisions based on what it has 
+           learned. Deep learning structures algorithms in layers to create an "artificial neural
+           network" that an learn and make intelligent decisions on its own. 
+
+14>Answer: In machine learning, the perceptron is an algorithm for supervised learning of binary
+           classifiers. A binary classifier is a function which can decide whether or not an 
+           input represented by a vector of numbers, belongs to some specific class.
+
+15>Answer: AI is the broader concept of machines being able to carry out tasks in a way that we 
+           would consider "smart". And, Machine learning is a current application of AI based 
+           around the idea that we shoud really just be able to give machines access to data and
+           let them learn for themselves. 
